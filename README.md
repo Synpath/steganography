@@ -1,3 +1,4 @@
+# Steganography
 This was a take-home project administered for entry into UGA's Small Satellite Research Laboratory. The given project period was about a week or so. 
 ---
 ---
